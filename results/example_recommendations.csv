@@ -1,0 +1,61 @@
+query,method,title,genres,vote_average,similarity,director,main actors,score
+The Dark Knight,Plot only (MPNet),The Dark Knight Rises,"['Action', 'Crime', 'Drama', 'Thriller']",7.6,0.828,,,
+The Dark Knight,Plot only (MPNet),Batman,"['Fantasy', 'Action']",7.0,0.81,,,
+The Dark Knight,Plot only (MPNet),Batman Begins,"['Action', 'Crime', 'Drama']",7.5,0.77,,,
+The Dark Knight,Plot only (MPNet),Batman v Superman: Dawn of Justice,"['Action', 'Adventure', 'Fantasy']",5.7,0.696,,,
+The Dark Knight,Plot only (MPNet),Batman Forever,"['Action', 'Crime', 'Fantasy']",5.2,0.686,,,
+The Dark Knight,Hybrid (alpha = 0.2),The Dark Knight Rises,"['Action', 'Crime', 'Drama', 'Thriller']",,,Christopher Nolan,"Christian Bale, Michael Caine, Gary Oldman",0.576
+The Dark Knight,Hybrid (alpha = 0.2),Batman Begins,"['Action', 'Crime', 'Drama']",,,Christopher Nolan,"Christian Bale, Michael Caine, Liam Neeson",0.552
+The Dark Knight,Hybrid (alpha = 0.2),The Prestige,"['Drama', 'Mystery', 'Thriller']",,,Christopher Nolan,"Hugh Jackman, Christian Bale, Michael Caine",0.385
+The Dark Knight,Hybrid (alpha = 0.2),Interstellar,"['Adventure', 'Drama', 'Science Fiction']",,,Christopher Nolan,"Matthew McConaughey, Jessica Chastain, Anne Hathaway",0.335
+The Dark Knight,Hybrid (alpha = 0.2),Inception,"['Action', 'Thriller', 'Science Fiction', 'Mystery', 'Adventure']",,,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",0.323
+Toy Story,Plot only (MPNet),Toy Story 3,"['Animation', 'Family', 'Comedy']",7.6,0.833,,,
+Toy Story,Plot only (MPNet),Toy Story 2,"['Animation', 'Comedy', 'Family']",7.3,0.817,,,
+Toy Story,Plot only (MPNet),Elf,"['Comedy', 'Family', 'Fantasy']",6.4,0.482,,,
+Toy Story,Plot only (MPNet),Pinocchio,"['Animation', 'Family']",6.9,0.474,,,
+Toy Story,Plot only (MPNet),Alvin and the Chipmunks: The Squeakquel,"['Comedy', 'Family', 'Animation', 'Fantasy', 'Music']",5.4,0.449,,,
+Toy Story,Hybrid (alpha = 0.2),Toy Story 2,"['Animation', 'Comedy', 'Family']",,,John Lasseter,"Tom Hanks, Tim Allen, Joan Cusack",0.57
+Toy Story,Hybrid (alpha = 0.2),Toy Story 3,"['Animation', 'Family', 'Comedy']",,,Lee Unkrich,"Tom Hanks, Tim Allen, Ned Beatty",0.26
+Toy Story,Hybrid (alpha = 0.2),Cars,"['Animation', 'Adventure', 'Comedy', 'Family']",,,"John Lasseter, Joe Ranft","Owen Wilson, Paul Newman, Bonnie Hunt",0.201
+Toy Story,Hybrid (alpha = 0.2),Cars 2,"['Animation', 'Family', 'Adventure', 'Comedy']",,,"John Lasseter, Brad Lewis","Owen Wilson, Larry the Cable Guy, Michael Caine",0.191
+Toy Story,Hybrid (alpha = 0.2),A Bug's Life,"['Adventure', 'Animation', 'Comedy', 'Family']",,,"Andrew Stanton, John Lasseter","Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere",0.175
+The Notebook,Plot only (MPNet),Angel Eyes,"['Drama', 'Romance', 'Thriller']",5.6,0.698,,,
+The Notebook,Plot only (MPNet),The Incredibly True Adventure of Two Girls In Love,"['Comedy', 'Drama', 'Romance']",5.7,0.687,,,
+The Notebook,Plot only (MPNet),Closer,"['Drama', 'Romance']",6.7,0.685,,,
+The Notebook,Plot only (MPNet),Gone with the Wind,"['Drama', 'Romance', 'War']",7.7,0.675,,,
+The Notebook,Plot only (MPNet),Before Sunrise,"['Drama', 'Romance']",7.7,0.663,,,
+The Notebook,Hybrid (alpha = 0.2),My Sister's Keeper,['Drama'],,,Nick Cassavetes,"Cameron Diaz, Alec Baldwin, Abigail Breslin",0.365
+The Notebook,Hybrid (alpha = 0.2),John Q,"['Drama', 'Thriller', 'Crime']",,,Nick Cassavetes,"Denzel Washington, Robert Duvall, Anne Heche",0.357
+The Notebook,Hybrid (alpha = 0.2),The Other Woman,"['Comedy', 'Romance']",,,Nick Cassavetes,"Cameron Diaz, Leslie Mann, Kate Upton",0.329
+The Notebook,Hybrid (alpha = 0.2),Closer,"['Drama', 'Romance']",,,Mike Nichols,"Julia Roberts, Jude Law, Natalie Portman",0.147
+The Notebook,Hybrid (alpha = 0.2),Darling Companion,"['Drama', 'Romance']",,,Lawrence Kasdan,"Diane Keaton, Kevin Kline, Sam Shepard",0.143
+The Conjuring,Plot only (MPNet),The Apparition,"['Horror', 'Thriller']",4.5,0.742,,,
+The Conjuring,Plot only (MPNet),The Conjuring 2,['Horror'],7.0,0.726,,,
+The Conjuring,Plot only (MPNet),The Amityville Horror,"['Horror', 'Thriller', 'Drama']",6.0,0.696,,,
+The Conjuring,Plot only (MPNet),Insidious: Chapter 2,"['Horror', 'Thriller']",6.5,0.695,,,
+The Conjuring,Plot only (MPNet),Beetlejuice,"['Fantasy', 'Comedy']",7.1,0.691,,,
+The Conjuring,Hybrid (alpha = 0.2),The Conjuring 2,['Horror'],,,James Wan,"Patrick Wilson, Vera Farmiga, Madison Wolfe",0.508
+The Conjuring,Hybrid (alpha = 0.2),Insidious: Chapter 2,"['Horror', 'Thriller']",,,James Wan,"Patrick Wilson, Rose Byrne, Ty Simpkins",0.453
+The Conjuring,Hybrid (alpha = 0.2),Insidious,"['Horror', 'Thriller']",,,James Wan,"Patrick Wilson, Rose Byrne, Ty Simpkins",0.429
+The Conjuring,Hybrid (alpha = 0.2),Saw,"['Horror', 'Mystery', 'Crime']",,,James Wan,"Cary Elwes, Danny Glover, Monica Potter",0.354
+The Conjuring,Hybrid (alpha = 0.2),Death Sentence,"['Action', 'Crime', 'Drama', 'Thriller']",,,James Wan,"Kevin Bacon, Garrett Hedlund, Kelly Preston",0.333
+Interstellar,Plot only (MPNet),Star Trek Beyond,"['Action', 'Adventure', 'Science Fiction']",6.6,0.561,,,
+Interstellar,Plot only (MPNet),The Black Hole,"['Adventure', 'Family', 'Science Fiction', 'Action']",6.1,0.522,,,
+Interstellar,Plot only (MPNet),Prometheus,"['Science Fiction', 'Adventure', 'Mystery']",6.3,0.498,,,
+Interstellar,Plot only (MPNet),Stargate: The Ark of Truth,"['Adventure', 'Science Fiction']",6.9,0.494,,,
+Interstellar,Plot only (MPNet),Tomorrowland,"['Adventure', 'Family', 'Mystery', 'Science Fiction']",6.2,0.473,,,
+Interstellar,Hybrid (alpha = 0.2),The Dark Knight Rises,"['Action', 'Crime', 'Drama', 'Thriller']",,,Christopher Nolan,"Christian Bale, Michael Caine, Gary Oldman",0.36
+Interstellar,Hybrid (alpha = 0.2),The Prestige,"['Drama', 'Mystery', 'Thriller']",,,Christopher Nolan,"Hugh Jackman, Christian Bale, Michael Caine",0.357
+Interstellar,Hybrid (alpha = 0.2),The Dark Knight,"['Drama', 'Action', 'Crime', 'Thriller']",,,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",0.335
+Interstellar,Hybrid (alpha = 0.2),Memento,"['Mystery', 'Thriller']",,,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",0.322
+Interstellar,Hybrid (alpha = 0.2),Batman Begins,"['Action', 'Crime', 'Drama']",,,Christopher Nolan,"Christian Bale, Michael Caine, Liam Neeson",0.321
+Fight Club,Plot only (MPNet),Some Guy Who Kills People,"['Comedy', 'Horror', 'Thriller']",5.7,0.642,,,
+Fight Club,Plot only (MPNet),Edmond,"['Drama', 'Thriller']",6.0,0.626,,,
+Fight Club,Plot only (MPNet),Taxi Driver,"['Crime', 'Drama']",8.0,0.604,,,
+Fight Club,Plot only (MPNet),The In Crowd,['Thriller'],4.7,0.577,,,
+Fight Club,Plot only (MPNet),Little Children,"['Romance', 'Drama']",6.9,0.577,,,
+Fight Club,Hybrid (alpha = 0.2),Se7en,"['Crime', 'Mystery', 'Thriller']",,,David Fincher,"Brad Pitt, Morgan Freeman, Gwyneth Paltrow",0.418
+Fight Club,Hybrid (alpha = 0.2),The Curious Case of Benjamin Button,"['Fantasy', 'Drama', 'Thriller', 'Mystery', 'Romance']",,,David Fincher,"Cate Blanchett, Brad Pitt, Tilda Swinton",0.399
+Fight Club,Hybrid (alpha = 0.2),Panic Room,"['Crime', 'Drama', 'Thriller']",,,David Fincher,"Jodie Foster, Kristen Stewart, Forest Whitaker",0.376
+Fight Club,Hybrid (alpha = 0.2),Zodiac,"['Crime', 'Drama', 'Mystery', 'Thriller']",,,David Fincher,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",0.356
+Fight Club,Hybrid (alpha = 0.2),The Girl with the Dragon Tattoo,"['Thriller', 'Crime', 'Mystery', 'Drama']",,,David Fincher,"Daniel Craig, Rooney Mara, Christopher Plummer",0.349
