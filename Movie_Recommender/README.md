@@ -2,9 +2,9 @@
 
 **Final project · Applied AI with Hugging Face · Topic: Movie Recommendation System**
 
-**Team:** Nurgaliyev Batyrkhan, _Name 2_, _Name 3_
+**Team:** Nurgaliyev Batyrkhan, Lipyavko Anastasia, Belmach Mariia
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/movie-recommender/blob/main/notebook/movie_recommender.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggftlsygg/movie-recommender/blob/main/notebook/movie_recommender.ipynb)
 
 ## Project description
 
