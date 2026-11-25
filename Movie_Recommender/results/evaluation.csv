@@ -1,6 +1,0 @@
-test,method,precision_at_10
-Genre Precision@10 (all movies),Random,0.5011527981555229
-Genre Precision@10 (all movies),Plot only (MPNet),0.77264724376441
-MovieLens Precision@10 (test users),Random,0.06563
-MovieLens Precision@10 (test users),Plot only (MPNet),0.11324000000000001
-MovieLens Precision@10 (test users),Hybrid (alpha = 0.2),0.18242
