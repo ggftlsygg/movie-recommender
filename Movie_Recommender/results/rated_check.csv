@@ -1,0 +1,4 @@
+,% of recs the user has rated,average rating (0.5–5),% liked (≥ 4 stars),% disliked (≤ 2.5 stars)
+Random,12.6,3.6,50.6,16.7
+Plot only (MPNet),19.4,3.8,59.1,11.8
+Hybrid (alpha = 0.2),29.0,3.9,62.9,9.6
